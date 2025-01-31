@@ -1,4 +1,4 @@
-#face-recogonization
+face-recogonization
 Introduction:
 Google Teachable Machine is a user-friendly web-based tool that allows you to create machine learning models for image classification tasks without requiring any coding knowledge. This report will guide you through the process of using Teachable Machine to create a face recognition model and implementing it in Python.
 
